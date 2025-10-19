@@ -1,0 +1,28 @@
+.nav-bar{
+    background-color: blueviolet;
+    color: white;
+    padding: 5px;
+    font-size: xx-large;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-items{
+    background-color:rgb(125, 214, 87);
+    color: black;
+    padding: 2px;
+    font-size:x-large;
+    display: flex;
+    justify-content: space-around;
+    margin: 12px;
+}
+
+.nav-lists{
+    background-color:rgb(180, 45, 104);
+    color: black;
+    padding: 4px;
+    font-size:x-large;
+    display: flex;
+    justify-content: space-around;
+    
+}
